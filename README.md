@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there 👋It's me Vasanthi
 
-<!--
-**Vasanthi512/Vasanthi512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tata Consultancy Services...
 - 🌱 I’m currently learning Java Full Stack ,Amazon Web services...
