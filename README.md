@@ -1,7 +1,5 @@
 ### Hi there 👋It's me Vasanthi
 
-
-<h1 align="center">Hi 👋, I'm Vasanthi</h1>
 <h3 align="center">A passionate security analyst from India looking for the challenging with opportunities ahead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthi512&label=Profile%20views&color=0e75b6&style=flat" alt="vasanthi512" /> </p>
